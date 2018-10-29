@@ -1,0 +1,33 @@
+/* CSS Document */
+#main{ 
+width: 1600px;  
+display:flex; 
+justify-content: center; 
+flex-wrap: wrap;
+background-color : #E6E6FA ;
+}
+h1 {
+width: 1000px;
+}
+div{
+width: 1000px;
+background-color : #E6E6FA ; 
+}
+img {
+max-width: 100%;
+display: block;
+height: auto;
+margin: auto;
+}
+# img-caption{
+}
+#tribute-info{
+width: 1600px; 
+display:flex; 
+justify-content: center;
+background-color : #E6E6FA ;
+}
+ul{
+width: 900px;
+display: inline-block;
+}
