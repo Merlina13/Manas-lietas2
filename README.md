@@ -1,2 +1,2 @@
 # Manas-lietas2
-[Mana saite](example.com)
+[Mana saite](https://codepen.io/zane-eiduka/pen/GYxENY)
